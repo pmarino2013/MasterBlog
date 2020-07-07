@@ -2,4 +2,5 @@ Esta es la biografía de Pablo
 Su historia comienza hace mucho en un pueblo pequeño de Argentina.
 De niño demostró habilidades impresionantes en el manejo de datos. 
 
-Estudio master en tecnología
+Estudio master en tecnología.
+Ahora sabe Git
