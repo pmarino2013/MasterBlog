@@ -3,4 +3,6 @@ Su historia comienza hace mucho en un pueblo pequeño de Argentina.
 De niño demostró habilidades impresionantes en el manejo de datos. 
 
 Estudio master en tecnología.
-Ahora sabe Git
+Ahora sabe Git.
+
+Comenzando clases de Git
