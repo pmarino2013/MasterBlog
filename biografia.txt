@@ -7,4 +7,4 @@ Ahora sabe Git.
 
 Comenzando clases de Git
 
-Comenzó clases de Github.
+Terminó su curso de Svelte
