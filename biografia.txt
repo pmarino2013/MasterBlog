@@ -7,4 +7,6 @@ Ahora sabe Git.
 
 Comenzando clases de Git
 
-Terminó su curso de Svelte
+Terminó su curso de Svelte.
+Es un groso.
+
